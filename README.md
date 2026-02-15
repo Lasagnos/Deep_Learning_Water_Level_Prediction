@@ -1,0 +1,2 @@
+Project for the Deep Learning course of Laurea Magistrale in Informatica y.2025/2026, Università di Bologna.
+Predict the water level in the Northern Adriatic Sea only from external factors, without autoregression. All required information present in the notebook.
